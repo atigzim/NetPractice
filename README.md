@@ -43,10 +43,6 @@ The project emphasizes understanding how devices communicate across networks, ho
 - This `README.md` file must be included.
 - The complete NetPractice training interface files must be included.
 
-⚠️ **Important**  
-Do not modify the exported configuration files manually.  
-They must be generated directly from the training interface to ensure validity.
-
 ## Resources
 
 ### Learning Materials
